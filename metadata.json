@@ -1,0 +1,6 @@
+{
+  "name": "Print-in-Place Hinge Box Designer",
+  "description": "Parametric 3D CAD generator for print-in-place hinged boxes with snap-locks, custom debossed lid graphics, tolerance calibration, print bed auto-layout, and STL / Bambu Studio 3MF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
